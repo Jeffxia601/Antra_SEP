@@ -1,0 +1,7 @@
+performance tuning in SQL Server
+
+Tuning Advisor: 
+Extended Events： 
+DMV： 
+Logs： 
+Execution Plan： 

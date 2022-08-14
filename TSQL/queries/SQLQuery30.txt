@@ -1,0 +1,7 @@
+Write a short essay talking about a scenario:
+We (Wide World Importers) just brought out a small company called “Adventure works”! 
+Now that bike shop is our sub-company. The first thing of all works pending would be 
+to merge the user logon information, person information (including emails, phone numbers) 
+and products (of course, add category, colors) to WWI database. Include screenshot, 
+mapping and query.
+

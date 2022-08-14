@@ -1,0 +1,16 @@
+My understanding of transactions, locks, isolation levels
+
+transactions: A logical work unit performs one or multiple activities. 
+It follows ACID(Atomicity,Consistency, Isolation, Duribility) criteria 
+and has 2 many uses: commit and rollback. @@TRANCOUNT can be used 
+to count number of open local transaction.
+
+locks: Totaly there are 6 kinds of locks: Exclusive(X), Shared(S), 
+Update(U), Intent(I), Schema(Sch), Bulk update(BU).
+Locks are held on SQL Server resources, such as rows read or modified during a transaction, 
+to prevent concurrent use of resources by different transactions. For example, 
+if an exclusive (X) lock is held on a row within a table by a transaction, n
+o other transaction can modify that row until the lock is released
+
+isolation levels: It has 5 levels listed in ascending order: Snapshot, 
+Read Uncommitted/Committed, Repeateable Read and Serializable. 
