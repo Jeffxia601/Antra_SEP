@@ -1,0 +1,38 @@
+{
+    "movie": [
+        {
+            "Id": 1,
+            "Title": "Inception",
+            "Overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+            "Tagline": "Your mind is the scene of the crime.",
+            "Budget": 160000000.0,
+            "Revenue": 825532764.0,
+            "ImdbUrl": "https://www.imdb.com/title/tt1375666",
+            "TmdbUrl": "https://www.themoviedb.org/movie/27205",
+            "PosterUrl": "https://image.tmdb.org/t/p/w342//9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+            "BackdropUrl": "https://image.tmdb.org/t/p/original//s3TBrRGB1iav7gFOCNx3H31MoES.jpg",
+            "OriginalLanguage": "en",
+            "ReleaseDate": "2010-07-15T00:00:00",
+            "RunTime": 148,
+            "Price": 9.9,
+            "CreatedDate": "2021-04-03T16:51:30.1633333",
+            "UpdatedDate": null,
+            "UpdatedBy": null,
+            "CreatedBy": null,
+            "genres": [
+                {
+                    "id": 1,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 6,
+                    "name": "Action"
+                },
+                {
+                    "id": 13,
+                    "name": "Science Fiction"
+                }
+            ]
+        }
+    ]
+}
